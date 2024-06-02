@@ -21,7 +21,7 @@
     <a href = "mailto: deyvid_35@live.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "www.linkedin.com/in/deyvid-queiroz-8123901a1">
+    <a href = "https://www.linkedin.com/in/deyvid-queiroz-8123901a1">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/deyvid_queirozz/">
