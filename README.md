@@ -24,7 +24,7 @@
     <a href = "https://www.linkedin.com/in/deyvid-queiroz-8123901a1">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/deyvid_queirozz/">
+    <a href = "https://www.instagram.com/coding.dey/">
       <img width="25" src="instagram.png">
     </a>
 </div>
